@@ -8,23 +8,23 @@
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
 </p>
 
-## 🇬🇧 Overview
+## Overview
 
 Three TensorFlow/Keras notebooks: price regression on a bicycle dataset (model saved as `.keras` and `.h5`), car price regression on the Mercedes dataset, and an overfitting study on a malicious website classification dataset.
 
 **Quick start:** `jupyter notebook`
 
-## 🇹🇷 Proje hakkında
+## Proje hakkında
 
 TensorFlow/Keras ile üç uygulama defteri.
 
-## 📚 İçerik
+## İçerik
 
 - `01`: bisiklet fiyatı regresyonu, Keras + scikit-learn; model `bisiklet_modeli.keras` olarak kaydedilir
 - `02`: Mercedes araç fiyatı regresyonu (`merc.xlsx`)
 - `03`: kötü amaçlı site sınıflandırmasında aşırı öğrenme ve önlemleri (`maliciousornot.xlsx`)
 
-## ⚙️ Kurulum ve çalıştırma
+## Kurulum ve çalıştırma
 
 ```bash
 python -m venv .venv
@@ -36,7 +36,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-## 📁 Dosya yapısı
+## Dosya yapısı
 
 ```text
 TensorflowLib/
